@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student at ISEC</h3>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="10em">
+<table><tr><td valign="top" width="30em">
 
 ### Frontend  
 <div align="center">  
@@ -14,7 +14,7 @@
 
 </div>
 
-</td><td valign="top" width="10em">
+</td><td valign="top" width="30em">
 
 ### Backend  
 <div align="center">  
@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> 
 </div>
 
-</td><td valign="top" width="10em">
+</td><td valign="top" width="30em">
 
 ### DevOps  
 <div align="center">  
