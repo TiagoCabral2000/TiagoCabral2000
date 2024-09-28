@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Cabral</h1>
 <h3 align="center">Software Engineering Student at ISEC</h3>
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=tiagocabral2000&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)" alt="tiagocabral2000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="tiagocabral2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocabral2000&show_icons=true&locale=en" alt="tiagocabral2000" /></p>
 
