@@ -13,7 +13,7 @@
 
 <table width = 100%><tr><td valign="top" width="33%">
 
-### Frontend  
+### <div align = "center">Frontend </div>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
 <a href="https://reactjs.org/" target="_blank" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/></a> 
