@@ -6,6 +6,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="tiagocabral2000" /></p>
 
 <br>
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; justify-content: space-between;">
