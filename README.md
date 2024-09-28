@@ -10,6 +10,7 @@
 
 
 ## My Skill Set  
+<div width = "100%">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -43,7 +44,7 @@
 
 </td></tr></table>  
 
-
+</div>
 
 ## Connect with me
 <p align="left">
