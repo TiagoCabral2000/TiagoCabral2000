@@ -7,10 +7,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
 
   <!-- Frontend Box -->
-  <div style="border: 1px solid #ccc; padding: 20px; width: 30%;">
+  <div style="border: 1px solid #ccc; padding: 20px; flex: 1; margin: 10px;">
     <h4>Frontend</h4>
     <p>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -32,7 +32,7 @@
   </div>
 
   <!-- Backend Box -->
-  <div style="border: 1px solid #ccc; padding: 20px; width: 30%;">
+  <div style="border: 1px solid #ccc; padding: 20px; flex: 1; margin: 10px;">
     <h4>Backend</h4>
     <p>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -54,7 +54,7 @@
   </div>
 
   <!-- Tools Box -->
-  <div style="border: 1px solid #ccc; padding: 20px; width: 30%;">
+  <div style="border: 1px solid #ccc; padding: 20px; flex: 1; margin: 10px;">
     <h4>Tools</h4>
     <p>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -67,6 +67,7 @@
   </div>
 
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
