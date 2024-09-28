@@ -1,4 +1,4 @@
-### <div align="left">Hi, i'm Tiago. Welcome to my GitHub profile! </div>  
+# <div align="left">Hi, i'm Tiago. Welcome to my GitHub profile! </div>  
 
 
 - 🔭 I'm currently in my second year of a degree in Software Engineering, at ISEC
