@@ -14,7 +14,7 @@
 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="10em">
 
 ### Backend  
 <div align="center">  
@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="10em">
 
 ### DevOps  
 <div align="center">  
