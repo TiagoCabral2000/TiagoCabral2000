@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago Cabral</h1>
 <h3 align="center">Software Engineering Student at ISEC</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="tiagocabral2000" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="tiagocabral2000" /></p>
-
-<br>
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -36,8 +27,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -52,13 +41,21 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/tiagofscabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagofscabral" height="30" width="40" /></a>
 <a href="https://fb.com/tiagocabral.1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiagocabral.1904" height="30" width="40" /></a>
 <a href="https://instagram.com/tiagocabral_1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagocabral_1904" height="30" width="40" /></a>
 <a href="https://discord.gg/1162412484649558058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1162412484649558058" height="30" width="40" /></a>
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="tiagocabral2000" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="tiagocabral2000" /></p>
+
+<br>
 
 
 
