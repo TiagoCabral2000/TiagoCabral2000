@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student at ISEC</h3>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="5em">
+<table><tr><td valign="top" width="10em">
 
 ### Frontend  
 <div align="center">  
