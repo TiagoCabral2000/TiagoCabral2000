@@ -1,4 +1,21 @@
-### <div align="center">Hi, i'm Tiago </div>  
+### <div align="left">Hi, i'm Tiago. Welcome to my GitHub profile! </div>  
+
+<div align="left" style="font-family: monospace; white-space: nowrap; overflow: hidden; border-right: 2px solid; 
+    animation: typing 3s steps(30, end), blink-caret 0.75s step-end infinite;">
+    Hi, I'm Tiago. Welcome to my GitHub profile!
+</div>
+
+<style>
+    @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+    }
+
+    @keyframes blink-caret {
+        from, to { border-color: transparent; }
+        50% { border-color: black; }
+    }
+</style>
 
 - 🔭 I'm currently in my second year of a degree in Software Engineering, at ISEC
   
