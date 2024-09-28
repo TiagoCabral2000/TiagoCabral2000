@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently in my second year of a degree in Software Engineering, at ISEC
   
-- 🚀 I'm looking for opportunities to complement my studies through extracurricular activities, like a summer internship for example
+- 🚀 I'm looking for opportunities to complement my studies through extracurricular activities, like a summer internship 
   
 - 🎯 My main goals are to develop skills in areas related to applications and web development
 
