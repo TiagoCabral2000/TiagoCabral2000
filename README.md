@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago Cabral</h1>
 <h3 align="center">Software Engineering Student at ISEC</h3>
 
+<br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -46,6 +48,7 @@
 <a href="https://discord.gg/1162412484649558058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1162412484649558058" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 ## GitHub stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="tiagocabral2000" /></p>
