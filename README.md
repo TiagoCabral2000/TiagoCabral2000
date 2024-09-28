@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tiago Cabral</h1>
-<h3 align="center">Software Engineering Student at ISEC</h3>
+- 🔭 I’m currently working @ Noesis with Sitecore
+  
+
+- 🌱 I’m currently learning Remix and NestJS  
+  
+
+- ⚡ Fun fact: I do some photos and DJ in my spare time as a hobby
 
 <br/>
 
