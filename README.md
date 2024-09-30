@@ -57,7 +57,7 @@
 
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoCabral2000&repo=github-readme-stats&cache_seconds=86400&theme=github_dark" alt="tiagocabral2000"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCabral2000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="tiagocabral2000" /></p>
 
