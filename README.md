@@ -31,10 +31,10 @@
 
 ## Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/tiagofscabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagofscabral" height="30" width="40" /></a>
-<a href="https://fb.com/tiagocabral.1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiagocabral.1904" height="30" width="40" /></a>
-<a href="https://instagram.com/tiagocabral_1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagocabral_1904" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1162412484649558058" target="blank"><img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="1162412484649558058" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/tiagofscabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagofscabral" height="40" width="50" /></a>
+<a href="https://fb.com/tiagocabral.1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiagocabral.1904" height="40" width="50" /></a>
+<a href="https://www.instagram.com/tiagofscabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagocabral_1904" height="40" width="50" /></a>
+<a href="https://discordapp.com/users/1162412484649558058" target="blank"><img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="1162412484649558058" height="50" width="50" /></a>
 </p>
 
 
