@@ -1,7 +1,7 @@
 # <div align="left">Hi, i'm Tiago. Welcome to my GitHub profile! </div>  
 
 
-- 🔭 I'm currently in my second year of a degree in Software Engineering, at ISEC
+- 🎓 I'm heading into the third and final year of my Bachelor's degree in Software Engineering at ISEC
   
 - 🚀 I'm focusing on developing my skills in TypeScript and Angular to complement my studies and grow in the field of web development
   
